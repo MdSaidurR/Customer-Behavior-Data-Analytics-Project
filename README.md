@@ -1,0 +1,1 @@
+This is a demo project focused on data analytics. I used Pandas for data preparation and cleaning, PostgreSQL to develop and answer ten key business questions, and Microsoft Power BI to design an interactive dashboard that analyzes customer behavior.
