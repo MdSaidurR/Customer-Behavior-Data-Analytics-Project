@@ -38,6 +38,8 @@ Visualize customer segments, trends, and KPIs
 
 Enable data-driven decision-making for stakeholders
 
+![Customer Behavior Dashboard](https://github.com/MdSaidurR/Customer-Behavior-Data-Analytics-Project/blob/master/Customer%20Behavior%20Dashboard.png)
+
 ✅ Reporting & Presentation
 
 Summarize findings in a structured project report
